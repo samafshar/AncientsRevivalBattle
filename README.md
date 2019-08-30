@@ -4,4 +4,3 @@ Here you can find sample source code of battle system that is used in Ancients R
 Video of battle gameplay is here: https://www.youtube.com/watch?v=DeKmVeFb1Rc
 
 Thank you
-Sam
